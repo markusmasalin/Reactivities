@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tum7gF3QlQGSbpdCBqezVEHzWmsnRGBidovNstRPcpZpc/YRIrgXzqyHwaHjNIbqLXCSi98gQStIXZBqWed5UQ==",
+  "success": true,
+  "projectFilePath": "/Users/markus.masalin/completeGuide/Reactivities/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/markus.masalin/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/markus.masalin/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
