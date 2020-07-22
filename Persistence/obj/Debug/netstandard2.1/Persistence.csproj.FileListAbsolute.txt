@@ -1,0 +1,11 @@
+/Users/markus.masalin/completeGuide/Reactivities/Persistence/bin/Debug/netstandard2.1/Persistence.deps.json
+/Users/markus.masalin/completeGuide/Reactivities/Persistence/bin/Debug/netstandard2.1/Persistence.dll
+/Users/markus.masalin/completeGuide/Reactivities/Persistence/bin/Debug/netstandard2.1/Persistence.pdb
+/Users/markus.masalin/completeGuide/Reactivities/Persistence/bin/Debug/netstandard2.1/Domain.dll
+/Users/markus.masalin/completeGuide/Reactivities/Persistence/bin/Debug/netstandard2.1/Domain.pdb
+/Users/markus.masalin/completeGuide/Reactivities/Persistence/obj/Debug/netstandard2.1/Persistence.csprojAssemblyReference.cache
+/Users/markus.masalin/completeGuide/Reactivities/Persistence/obj/Debug/netstandard2.1/Persistence.AssemblyInfoInputs.cache
+/Users/markus.masalin/completeGuide/Reactivities/Persistence/obj/Debug/netstandard2.1/Persistence.AssemblyInfo.cs
+/Users/markus.masalin/completeGuide/Reactivities/Persistence/obj/Debug/netstandard2.1/Persistence.csproj.CopyComplete
+/Users/markus.masalin/completeGuide/Reactivities/Persistence/obj/Debug/netstandard2.1/Persistence.dll
+/Users/markus.masalin/completeGuide/Reactivities/Persistence/obj/Debug/netstandard2.1/Persistence.pdb

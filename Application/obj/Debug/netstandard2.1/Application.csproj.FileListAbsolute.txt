@@ -1,0 +1,13 @@
+/Users/markus.masalin/completeGuide/Reactivities/Application/bin/Debug/netstandard2.1/Application.deps.json
+/Users/markus.masalin/completeGuide/Reactivities/Application/bin/Debug/netstandard2.1/Application.dll
+/Users/markus.masalin/completeGuide/Reactivities/Application/bin/Debug/netstandard2.1/Application.pdb
+/Users/markus.masalin/completeGuide/Reactivities/Application/bin/Debug/netstandard2.1/Domain.dll
+/Users/markus.masalin/completeGuide/Reactivities/Application/bin/Debug/netstandard2.1/Persistence.dll
+/Users/markus.masalin/completeGuide/Reactivities/Application/bin/Debug/netstandard2.1/Domain.pdb
+/Users/markus.masalin/completeGuide/Reactivities/Application/bin/Debug/netstandard2.1/Persistence.pdb
+/Users/markus.masalin/completeGuide/Reactivities/Application/obj/Debug/netstandard2.1/Application.csprojAssemblyReference.cache
+/Users/markus.masalin/completeGuide/Reactivities/Application/obj/Debug/netstandard2.1/Application.AssemblyInfoInputs.cache
+/Users/markus.masalin/completeGuide/Reactivities/Application/obj/Debug/netstandard2.1/Application.AssemblyInfo.cs
+/Users/markus.masalin/completeGuide/Reactivities/Application/obj/Debug/netstandard2.1/Application.csproj.CopyComplete
+/Users/markus.masalin/completeGuide/Reactivities/Application/obj/Debug/netstandard2.1/Application.dll
+/Users/markus.masalin/completeGuide/Reactivities/Application/obj/Debug/netstandard2.1/Application.pdb
