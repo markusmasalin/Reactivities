@@ -10,10 +10,52 @@
       "Application/1.0.0": {
         "dependencies": {
           "Domain": "1.0.0",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "8.0.1",
+          "Mediator.Net.MicrosoftDependencyInjection": "3.1.0",
           "Persistence": "1.0.0"
         },
         "runtime": {
           "Application.dll": {}
+        }
+      },
+      "Mediator.Net/3.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/Mediator.Net.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Mediator.Net.MicrosoftDependencyInjection/3.1.0": {
+        "dependencies": {
+          "Mediator.Net": "3.1.0",
+          "Microsoft.Extensions.DependencyInjection": "3.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Mediator.Net.MicrosoftDependencyInjection.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "MediatR/8.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          }
+        }
+      },
+      "MediatR.Extensions.Microsoft.DependencyInjection/8.0.1": {
+        "dependencies": {
+          "MediatR": "8.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.1.0"
+          }
         }
       },
       "Microsoft.Bcl.AsyncInterfaces/1.0.0": {
@@ -404,6 +446,34 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Mediator.Net/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2L5rYHO0EFlpPQzHfxGSLHpXMfwZF27Led2hKl1OJNg/LxLfBbJlyg3/i1+UKUnSHyKSUFLyTHQ0dwdom2ybSQ==",
+      "path": "mediator.net/3.1.0",
+      "hashPath": "mediator.net.3.1.0.nupkg.sha512"
+    },
+    "Mediator.Net.MicrosoftDependencyInjection/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wwEHS2Qqje7yeyjf4Ia7K+Eq2CUi2q6EcyqDQERJIVqms5SoS7UmLZDTHJT9ANTrwX7AhmxY4Ag5PZSfq/xLiw==",
+      "path": "mediator.net.microsoftdependencyinjection/3.1.0",
+      "hashPath": "mediator.net.microsoftdependencyinjection.3.1.0.nupkg.sha512"
+    },
+    "MediatR/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cYSDJ2b/dIiwTLW/ZW/SQcXq9I3WF6KR4D0KN4hxWR08tZqcvcVS1bQXZbsANdQdTQfxx+ZFp5WkHLMyeoR5Zw==",
+      "path": "mediatr/8.0.0",
+      "hashPath": "mediatr.8.0.0.nupkg.sha512"
+    },
+    "MediatR.Extensions.Microsoft.DependencyInjection/8.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NsNGjesuAFiUoJCYXVzuui69iJuKFVLomk2q+nWkp8VwZjarjJRKLAQtzJqvya7H2hw/DHqzS6vxEghLtZa7yg==",
+      "path": "mediatr.extensions.microsoft.dependencyinjection/8.0.1",
+      "hashPath": "mediatr.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/1.0.0": {
       "type": "package",
